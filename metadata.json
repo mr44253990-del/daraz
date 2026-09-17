@@ -1,0 +1,6 @@
+{
+  "name": "Daraz Bangladesh – Online Shopping Mall",
+  "description": "Daraz Bangladesh style online shopping mall with dynamic event banners, advanced multi-keyword search, AI tag optimization, affiliate link integration, and real-time product showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
